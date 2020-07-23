@@ -31,17 +31,12 @@
           <value>1243008097</value>
           <nature>4</nature>
         </field-data>
-        <field-data>
-          <name>npd_attr_69</name>
-          <value></value>
-          <nature>4</nature>
-        </field-data>
       </fieldData>
       <name>a</name>
       <isModify>false</isModify>
     </fact-data>
     <execution-trace>
-      <executionTimeResult>22</executionTimeResult>
+      <executionTimeResult>23</executionTimeResult>
       <numberOfRulesFired>1</numberOfRulesFired>
     </execution-trace>
     <expect-fact>
@@ -69,7 +64,7 @@
       <anonymous>true</anonymous>
     </expect-fact>
   </fixtures>
-  <lastRunResult>2020-07-23 21:26:31.498 UTC</lastRunResult>
+  <lastRunResult>2020-07-23 21:42:07.496 UTC</lastRunResult>
   <rules/>
   <inclusive>false</inclusive>
   <packageName>com.shubhi.test_foo_dependency</packageName>
