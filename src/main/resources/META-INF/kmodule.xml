@@ -1,3 +1,5 @@
 <kmodule xmlns="http://www.drools.org/xsd/kmodule" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <kbase name="k1" default="true" eventProcessingMode="cloud" equalsBehavior="identity" packages="com.shubhi.test_foo_dependency" includes="k1"/>
+  <kbase name="k1" default="true" eventProcessingMode="cloud" equalsBehavior="identity" packages="com.shubhi.test_foo_dependency" includes="k1">
+    <ksession name="k1" type="stateless" default="true" clockType="realtime"/>
+  </kbase>
 </kmodule>
