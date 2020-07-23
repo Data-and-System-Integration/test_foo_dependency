@@ -2,19 +2,6 @@
   <entries>
     <entry>
       <pathHead class="org.uberfire.backend.vfs.PathFactory$PathImpl">
-        <uri>default://master@shubhi/test_foo_dependency/src/main/resources/com/shubhi/test_foo_dependency/Valid%20Freq%20Field%20Npd%20Attr%2069.gdst</uri>
-        <fileName>Valid Freq Field Npd Attr 69.gdst</fileName>
-        <attributes/>
-        <hasVersionSupport>true</hasVersionSupport>
-      </pathHead>
-      <pathVersion class="org.uberfire.backend.vfs.PathFactory$PathImpl">
-        <uri>default://1cd72c483d909443ecc058c01389f5e9613038ec@shubhi/test_foo_dependency/src/main/resources/com/shubhi/test_foo_dependency/Valid%20Freq%20Field%20Npd%20Attr%2069.gdst</uri>
-        <fileName>Valid Freq Field Npd Attr 69.gdst</fileName>
-        <hasVersionSupport>false</hasVersionSupport>
-      </pathVersion>
-    </entry>
-    <entry>
-      <pathHead class="org.uberfire.backend.vfs.PathFactory$PathImpl">
         <uri>default://master@shubhi/test_foo_dependency/src/main/resources/com/shubhi/test_foo_dependency/RuleTable%20V_FREQ4%20%20Npd%20Attr%2071.gdst</uri>
         <fileName>RuleTable V_FREQ4  Npd Attr 71.gdst</fileName>
         <attributes/>
@@ -23,6 +10,19 @@
       <pathVersion class="org.uberfire.backend.vfs.PathFactory$PathImpl">
         <uri>default://7321c50588c18de2c3b54a6245c1e074175644fd@shubhi/test_foo_dependency/src/main/resources/com/shubhi/test_foo_dependency/RuleTable%20V_FREQ4%20%20Npd%20Attr%2071.gdst</uri>
         <fileName>RuleTable V_FREQ4  Npd Attr 71.gdst</fileName>
+        <hasVersionSupport>false</hasVersionSupport>
+      </pathVersion>
+    </entry>
+    <entry>
+      <pathHead class="org.uberfire.backend.vfs.PathFactory$PathImpl">
+        <uri>default://master@shubhi/test_foo_dependency/src/main/resources/com/shubhi/test_foo_dependency/Valid%20Freq%20Field%20Npd%20Attr%2069.gdst</uri>
+        <fileName>Valid Freq Field Npd Attr 69.gdst</fileName>
+        <attributes/>
+        <hasVersionSupport>true</hasVersionSupport>
+      </pathHead>
+      <pathVersion class="org.uberfire.backend.vfs.PathFactory$PathImpl">
+        <uri>default://26dc6ab558f7d9c2a67efe3ce3b7c93f5430fe66@shubhi/test_foo_dependency/src/main/resources/com/shubhi/test_foo_dependency/Valid%20Freq%20Field%20Npd%20Attr%2069.gdst</uri>
+        <fileName>Valid Freq Field Npd Attr 69.gdst</fileName>
         <hasVersionSupport>false</hasVersionSupport>
       </pathVersion>
     </entry>
