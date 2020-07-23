@@ -8,7 +8,7 @@
       <fieldData>
         <field-data>
           <name>npd_attr_9</name>
-          <value>1243001339</value>
+          <value>1243001332</value>
           <nature>4</nature>
         </field-data>
         <field-data>
@@ -33,7 +33,7 @@
         </field-data>
         <field-data>
           <name>npd_attr_69</name>
-          <value>`</value>
+          <value></value>
           <nature>4</nature>
         </field-data>
       </fieldData>
@@ -41,29 +41,35 @@
       <isModify>false</isModify>
     </fact-data>
     <execution-trace>
-      <executionTimeResult>18</executionTimeResult>
-      <numberOfRulesFired>2</numberOfRulesFired>
+      <executionTimeResult>22</executionTimeResult>
+      <numberOfRulesFired>1</numberOfRulesFired>
     </execution-trace>
     <expect-fact>
       <fieldValues>
         <expect-field>
           <fieldName>npd_attr_69</fieldName>
-          <expected></expected>
+          <expected>1243041654</expected>
+          <actualResult>1243041654</actualResult>
+          <successResult>true</successResult>
+          <explanation>[cns_transaction_file] field [npd_attr_69] was [1243041654].</explanation>
           <operator>==</operator>
-          <nature>0</nature>
+          <nature>1</nature>
         </expect-field>
         <expect-field>
           <fieldName>npd_attr_71</fieldName>
-          <expected></expected>
+          <expected>1</expected>
+          <actualResult>0</actualResult>
+          <successResult>false</successResult>
+          <explanation>[cns_transaction_file] field [npd_attr_71] was [0] expected [1].</explanation>
           <operator>==</operator>
-          <nature>0</nature>
+          <nature>1</nature>
         </expect-field>
       </fieldValues>
       <name>cns_transaction_file</name>
       <anonymous>true</anonymous>
     </expect-fact>
   </fixtures>
-  <lastRunResult>2020-07-23 17:57:08.109 UTC</lastRunResult>
+  <lastRunResult>2020-07-23 21:26:31.498 UTC</lastRunResult>
   <rules/>
   <inclusive>false</inclusive>
   <packageName>com.shubhi.test_foo_dependency</packageName>
