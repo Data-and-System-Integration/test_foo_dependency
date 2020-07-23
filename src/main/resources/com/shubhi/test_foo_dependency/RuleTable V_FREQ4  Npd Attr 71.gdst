@@ -12,18 +12,6 @@
   <attributeCols>
     <attribute-column52>
       <typedDefaultValue>
-        <valueString></valueString>
-        <dataType>STRING</dataType>
-        <isOtherwise>false</isOtherwise>
-      </typedDefaultValue>
-      <hideColumn>false</hideColumn>
-      <width>179</width>
-      <attribute>activation-group</attribute>
-      <reverseOrder>false</reverseOrder>
-      <useRowNumber>false</useRowNumber>
-    </attribute-column52>
-    <attribute-column52>
-      <typedDefaultValue>
         <valueNumeric class="int">0</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
@@ -235,11 +223,6 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>execute_rule_9</valueString>
-        <dataType>STRING</dataType>
-        <isOtherwise>false</isOtherwise>
-      </value>
-      <value>
         <valueNumeric class="int">6</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
@@ -289,11 +272,6 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>execute_rule_9</valueString>
-        <dataType>STRING</dataType>
-        <isOtherwise>false</isOtherwise>
-      </value>
-      <value>
         <valueNumeric class="int">5</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
@@ -339,11 +317,6 @@
       </value>
       <value>
         <valueString>Rule_9_V_FREQ4 Npd Attr 71_case_3</valueString>
-        <dataType>STRING</dataType>
-        <isOtherwise>false</isOtherwise>
-      </value>
-      <value>
-        <valueString>execute_rule_9</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>

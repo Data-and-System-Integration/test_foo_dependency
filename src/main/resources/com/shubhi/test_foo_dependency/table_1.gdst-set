@@ -21,9 +21,9 @@
         <hasVersionSupport>true</hasVersionSupport>
       </pathHead>
       <pathVersion class="org.uberfire.backend.vfs.PathFactory$PathImpl">
-        <uri>default://94de22447fc0dced59675ec3b937b511e6d051c9@shubhi/test_foo_dependency/src/main/resources/com/shubhi/test_foo_dependency/RuleTable%20V_FREQ4%20%20Npd%20Attr%2071.gdst</uri>
+        <uri>default://7321c50588c18de2c3b54a6245c1e074175644fd@shubhi/test_foo_dependency/src/main/resources/com/shubhi/test_foo_dependency/RuleTable%20V_FREQ4%20%20Npd%20Attr%2071.gdst</uri>
         <fileName>RuleTable V_FREQ4  Npd Attr 71.gdst</fileName>
-        <hasVersionSupport>true</hasVersionSupport>
+        <hasVersionSupport>false</hasVersionSupport>
       </pathVersion>
     </entry>
   </entries>
