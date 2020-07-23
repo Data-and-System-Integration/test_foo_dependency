@@ -21,7 +21,7 @@
         <hasVersionSupport>true</hasVersionSupport>
       </pathHead>
       <pathVersion class="org.uberfire.backend.vfs.PathFactory$PathImpl">
-        <uri>default://a9ba9d82e1186028ce5bea23aff83dc4495296c1@shubhi/test_foo_dependency/src/main/resources/com/shubhi/test_foo_dependency/Valid%20Freq%20Field%20Npd%20Attr%2069.gdst</uri>
+        <uri>default://138f1244b136afb24ad18304f7d8b488c7a3c70f@shubhi/test_foo_dependency/src/main/resources/com/shubhi/test_foo_dependency/Valid%20Freq%20Field%20Npd%20Attr%2069.gdst</uri>
         <fileName>Valid Freq Field Npd Attr 69.gdst</fileName>
         <hasVersionSupport>false</hasVersionSupport>
       </pathVersion>
