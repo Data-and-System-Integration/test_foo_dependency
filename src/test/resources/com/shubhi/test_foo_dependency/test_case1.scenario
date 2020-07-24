@@ -41,7 +41,7 @@
       <isModify>false</isModify>
     </fact-data>
     <execution-trace>
-      <executionTimeResult>23</executionTimeResult>
+      <executionTimeResult>21</executionTimeResult>
       <numberOfRulesFired>2</numberOfRulesFired>
     </execution-trace>
     <expect-fact>
@@ -69,7 +69,7 @@
       <anonymous>true</anonymous>
     </expect-fact>
   </fixtures>
-  <lastRunResult>2020-07-24 16:28:50.304 UTC</lastRunResult>
+  <lastRunResult>2020-07-24 16:32:34.839 UTC</lastRunResult>
   <rules/>
   <inclusive>false</inclusive>
   <packageName>com.shubhi.test_foo_dependency</packageName>
