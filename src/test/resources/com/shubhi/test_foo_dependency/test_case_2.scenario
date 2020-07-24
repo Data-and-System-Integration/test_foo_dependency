@@ -27,9 +27,6 @@
           <nature>4</nature>
         </field-data>
         <field-data>
-          <name>npd_attr_69</name>
-        </field-data>
-        <field-data>
           <name>npd_attr_9</name>
           <value>1243001332</value>
           <nature>4</nature>
@@ -38,18 +35,27 @@
       <name>$a</name>
       <isModify>false</isModify>
     </fact-data>
-    <execution-trace/>
+    <execution-trace>
+      <executionTimeResult>23</executionTimeResult>
+      <numberOfRulesFired>2</numberOfRulesFired>
+    </execution-trace>
     <expect-fact>
       <fieldValues>
         <expect-field>
           <fieldName>npd_attr_69</fieldName>
           <expected></expected>
+          <actualResult>1243041654</actualResult>
+          <successResult>false</successResult>
+          <explanation>[cns_transaction_file] field [npd_attr_69] was [1243041654] expected [].</explanation>
           <operator>==</operator>
           <nature>0</nature>
         </expect-field>
         <expect-field>
           <fieldName>npd_attr_71</fieldName>
           <expected></expected>
+          <actualResult>11112</actualResult>
+          <successResult>false</successResult>
+          <explanation>[cns_transaction_file] field [npd_attr_71] was [11112] expected [].</explanation>
           <operator>==</operator>
           <nature>0</nature>
         </expect-field>
@@ -58,6 +64,7 @@
       <anonymous>true</anonymous>
     </expect-fact>
   </fixtures>
+  <lastRunResult>2020-07-24 15:51:59.629 UTC</lastRunResult>
   <rules/>
   <inclusive>false</inclusive>
   <packageName>com.shubhi.test_foo_dependency</packageName>
