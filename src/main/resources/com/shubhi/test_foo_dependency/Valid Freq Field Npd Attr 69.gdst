@@ -35,6 +35,19 @@
       <reverseOrder>false</reverseOrder>
       <useRowNumber>false</useRowNumber>
     </attribute-column52>
+    <attribute-column52>
+      <typedDefaultValue>
+        <valueBoolean>true</valueBoolean>
+        <valueString></valueString>
+        <dataType>BOOLEAN</dataType>
+        <isOtherwise>false</isOtherwise>
+      </typedDefaultValue>
+      <hideColumn>false</hideColumn>
+      <width>100</width>
+      <attribute>no-loop</attribute>
+      <reverseOrder>false</reverseOrder>
+      <useRowNumber>false</useRowNumber>
+    </attribute-column52>
   </attributeCols>
   <conditionPatterns>
     <Pattern52>
@@ -210,6 +223,12 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
+        <valueBoolean>true</valueBoolean>
+        <valueString></valueString>
+        <dataType>BOOLEAN</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
         <valueNumeric class="long">1243001361</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_LONG</dataType>
@@ -269,6 +288,12 @@
       <value>
         <valueString>A</valueString>
         <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueBoolean>true</valueBoolean>
+        <valueString></valueString>
+        <dataType>BOOLEAN</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
@@ -334,6 +359,12 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
+        <valueBoolean>true</valueBoolean>
+        <valueString></valueString>
+        <dataType>BOOLEAN</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
         <valueNumeric class="long">1243001361</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_LONG</dataType>
@@ -396,6 +427,12 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
+        <valueBoolean>true</valueBoolean>
+        <valueString></valueString>
+        <dataType>BOOLEAN</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
         <valueString></valueString>
         <dataType>NUMERIC_LONG</dataType>
         <isOtherwise>false</isOtherwise>
@@ -453,6 +490,12 @@
       <value>
         <valueString>B</valueString>
         <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueBoolean>true</valueBoolean>
+        <valueString></valueString>
+        <dataType>BOOLEAN</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
@@ -517,6 +560,12 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
+        <valueBoolean>true</valueBoolean>
+        <valueString></valueString>
+        <dataType>BOOLEAN</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
         <valueString></valueString>
         <dataType>NUMERIC_LONG</dataType>
         <isOtherwise>false</isOtherwise>
@@ -575,6 +624,12 @@
       <value>
         <valueString>B</valueString>
         <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueBoolean>true</valueBoolean>
+        <valueString></valueString>
+        <dataType>BOOLEAN</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
