@@ -119,7 +119,7 @@
       <boundName>data</boundName>
       <factField>npd_attr_69</factField>
       <type>Long</type>
-      <update>true</update>
+      <update>false</update>
     </set-field-col52>
   </actionCols>
   <auditLog>
