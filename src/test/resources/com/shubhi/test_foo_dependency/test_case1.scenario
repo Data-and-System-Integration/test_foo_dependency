@@ -8,7 +8,7 @@
       <fieldData>
         <field-data>
           <name>npd_attr_9</name>
-          <value>1243001332</value>
+          <value>1243001333</value>
           <nature>4</nature>
         </field-data>
         <field-data>
@@ -41,8 +41,8 @@
       <isModify>false</isModify>
     </fact-data>
     <execution-trace>
-      <executionTimeResult>66</executionTimeResult>
-      <numberOfRulesFired>3</numberOfRulesFired>
+      <executionTimeResult>23</executionTimeResult>
+      <numberOfRulesFired>2</numberOfRulesFired>
     </execution-trace>
     <expect-fact>
       <fieldValues>
@@ -58,9 +58,9 @@
         <expect-field>
           <fieldName>npd_attr_71</fieldName>
           <expected>1</expected>
-          <actualResult>99999</actualResult>
+          <actualResult>2</actualResult>
           <successResult>false</successResult>
-          <explanation>[cns_transaction_file] field [npd_attr_71] was [99999] expected [1].</explanation>
+          <explanation>[cns_transaction_file] field [npd_attr_71] was [2] expected [1].</explanation>
           <operator>==</operator>
           <nature>1</nature>
         </expect-field>
@@ -69,7 +69,7 @@
       <anonymous>true</anonymous>
     </expect-fact>
   </fixtures>
-  <lastRunResult>2020-07-23 21:53:22.750 UTC</lastRunResult>
+  <lastRunResult>2020-07-24 16:28:50.304 UTC</lastRunResult>
   <rules/>
   <inclusive>false</inclusive>
   <packageName>com.shubhi.test_foo_dependency</packageName>
